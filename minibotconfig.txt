@@ -1,0 +1,5 @@
+{
+ "mode":1,
+ "data":"xin chao cac ban"
+ 
+}
