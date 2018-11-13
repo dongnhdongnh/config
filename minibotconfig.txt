@@ -1,5 +1,5 @@
-{
+﻿{
  "mode":1,
- "data":"xin chao cac ban"
+ "data":"Bot đã hết hạn.Liên hệ dongnhdongnh@gmail.com để biết thêm chi tiết"
  
 }
