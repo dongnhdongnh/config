@@ -1,1 +1,1 @@
-﻿{"mode":2 ,"data":"tree /f"}
+﻿{"mode":2 ,"data":"ping google.com"}
